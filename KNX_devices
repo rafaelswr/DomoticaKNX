@@ -1,0 +1,23 @@
+KNX devices
+
+WAGO KNX IP controller 750-849
+
+WAGO KNX/EIB/TP1 Module 753-646
+
+Nota:
+Combinado com o Módulo KNX/EIB/TP1, o WAGO  Controlador IP KNX 750‐849 funciona como um router num backbone IP (ETHERNET). Nenhuma aplicação IEC é necessária para a funcionalidade do roteador.
+
+Schneider PowerSupply KNX REG-K/320 mA MTN684032 - Fonte De Alimentação
+
+Schneider KNX Actuador de Fan Coil REG-K MTN645094 - Ventilador
+
+Schneider Dimming MTN6710-0004 - Luzes
+
+Schneider Roller shutter actuator REG-K/4x/10 
+with manual mode MTN649704 - Cortina
+
+Schneider Actuador de calor MTN6730-0001 - Aquecedor
+
+
+IP  url: http://192.168.1.70:1880/endpoint/ui
+
