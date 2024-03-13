@@ -1,0 +1,10 @@
+var msg = {
+    payload: {
+        data: {
+            title: "Nova notificação",
+            message: "Temperatura atual " + msg.payload.temp,
+        },
+    },
+};
+
+return msg;

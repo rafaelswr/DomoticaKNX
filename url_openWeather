@@ -1,0 +1,6 @@
+https://api.openweathermap.org/data/2.5/weather?lat=41.79805167790594&lon=-6.76962604106327&units=metric&appid=64b67989a1a0516b74e03920fb269669
+
+
+https://api.openweathermap.org/data/2.5/forecast?units=metric&lat=41.79805167790594&lon=-6.76962604106327&appid=d68cf9678f8ba2881c82716b4be4ab71
+
+https://api.ipma.pt/open-data/forecast/meteorology/cities/daily/1040200.json
