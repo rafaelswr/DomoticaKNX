@@ -1,5 +1,5 @@
 ### Desciption
-From a panel with devices that follow the KNX standard, programmable through ETS, building a dashboard using Node-Red within Home Assistant, simulating a residential environment
+From a panel with devices that follow the KNX standard, programmable through ETS, the main objective is to build a dashboard using Node-Red within Home Assistant, simulating a residential environment
 for controlling lighting, fans, heating (2 thermoelectric valves) and the electric movement of a curtain.
 
 ## Improvements
