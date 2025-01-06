@@ -6,9 +6,9 @@ for controlling lighting, fans, heating (2 thermoelectric valves) and the electr
 <div style="display: flex; justify-content: center; gap: 20px;">
 
 <img src="Panel.jpg" alt="Panel" width="200"/>
-<img src="ScreenShots/DashBoard_INFO.jpg" alt="DashBoard" width="200"/>
-<img src="ScreenShots/dashboard_cozinha.jpg" alt="dashboardKitchen" width="200"/>
-<img src="ScreenShots/dashboard_quarto.jpg" alt="dashboardRoom" width="200"/>
+<img src="ScreenShots/DashBoard_INFO.png" alt="DashBoard" width="200"/>
+<img src="ScreenShots/dashboard_cozinha.png" alt="dashboardKitchen" width="200"/>
+<img src="ScreenShots/dashboard_quarto.png" alt="dashboardRoom" width="200"/>
 
 </div>
 
